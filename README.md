@@ -14,30 +14,17 @@ This application allows for full CRUD (Create, Read, Update, Delete) functionali
 
 ## 🛠️ Tech Stack
 
-* **React**: The core of the application is built using React (v18+). It uses the **Class Component** architecture for managing component logic and state.
+* **React**: The core of the application is built using React. It uses the **Class Component** architecture for managing component logic and state.
 * **State Management**: All application state is managed locally within the main `App` component using `this.state` and `this.setState`.
-* **Styling**: The user interface is styled with **Tailwind CSS**, a utility-first CSS framework for creating a modern and responsive design directly within the JSX.
+* **Styling**: The user interface is styled with a utility-first CSS for creating a modern and responsive design directly within the JSX.
 
+## Demo Link
+* check out the demo weblink of this project https://taskbyhari.ccbp.tech/
 ## 🚀 Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### Prerequisites
-
-You need to have Node.js and npm (or yarn) installed on your machine.
-* [Node.js](https://nodejs.org/) (which includes npm)
-
 ### Installation & Setup
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/student-registration-system.git](https://github.com/your-username/student-registration-system.git)
-    ```
-
-2.  **Navigate to the project directory:**
-    ```bash
-    cd student-registration-system
-    ```
 
 3.  **Install dependencies:**
     ```bash
@@ -50,3 +37,6 @@ You need to have Node.js and npm (or yarn) installed on your machine.
     npm start
     ```
     The application will open automatically in your browser at `http://localhost:3000`.
+    
+**Authoor
+Developed by Hari Sai
