@@ -2,11 +2,6 @@ import React, {Component} from 'react'
 
 import './index.css'
 
-// ====================================================================================
-// Constants & Initial Data
-// Dev-note: In a real app, this data would come from an API.
-// ====================================================================================
-
 const INITIAL_COURSE_TYPES = [
   {id: 1, name: 'Individual'},
   {id: 2, name: 'Group'},
@@ -41,9 +36,9 @@ const Icon = ({path, className = 'w-6 h-6'}) => (
   </svg>
 )
 
-// ====================================================================================
+
 // Main App Component
-// ====================================================================================
+
 
 export default class App extends Component {
   state = {
