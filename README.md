@@ -44,12 +44,6 @@ You need to have Node.js and npm (or yarn) installed on your machine.
     npm install
     ```
 
-4.  **Set up Tailwind CSS:**
-    This project uses Tailwind CSS. If you are setting it up from scratch, you need to install it and create the configuration files:
-    ```bash
-    npm install -D tailwindcss postcss autoprefixer
-    npx tailwindcss init -p
-    ```
     Then, configure your `tailwind.config.js` and add the `@tailwind` directives to your main CSS file as per the official documentation.
 
 5.  **Run the application:**
