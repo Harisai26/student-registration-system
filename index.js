@@ -45,7 +45,7 @@ const Icon = ({path, className = 'w-6 h-6'}) => (
 // Main App Component
 // ====================================================================================
 
-export default class MemeGenerator extends Component {
+export default class App extends Component {
   state = {
     courseTypes: INITIAL_COURSE_TYPES,
     courses: INITIAL_COURSES,
