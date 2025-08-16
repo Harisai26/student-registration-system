@@ -38,5 +38,4 @@ Follow these instructions to get a copy of the project up and running on your lo
     ```
     The application will open automatically in your browser at `http://localhost:3000`.
     
-**Authoor
 Developed by Hari Sai
