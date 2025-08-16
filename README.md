@@ -44,8 +44,6 @@ You need to have Node.js and npm (or yarn) installed on your machine.
     npm install
     ```
 
-    Then, configure your `tailwind.config.js` and add the `@tailwind` directives to your main CSS file as per the official documentation.
-
 5.  **Run the application:**
     Start the development server.
     ```bash
